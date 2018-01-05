@@ -1,0 +1,17 @@
+
+.ba-container{
+	max-width: 1200px;
+}
+.ba-row{
+	margin-top: 20px;
+}
+.ba-width-1-4{
+	padding-top: 16px;
+}
+h1{
+	margin-left: 20px;
+	font-family: sans-serif;
+}
+a:hover{
+	opacity: 0.5;
+}
